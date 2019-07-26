@@ -1,0 +1,57 @@
+body {
+  background: #dfdfdf;
+}
+
+.language {
+  margin-top: 20px;
+  background: #fff;
+  max-width: 400px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.language form {
+  margin-bottom: 13px;
+}
+
+.language .custom-select {
+  width: 150px;
+}
+
+.language__item {
+  display: flex;
+  padding: 7px;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  margin-bottom: 15px;
+}
+
+.language__item:last-child {
+  margin-bottom: 0;
+}
+
+.logo {
+  height: 75px;
+  width: 75px;
+  background-size: contain;
+  margin-right: 15px;
+}
+
+.info h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.info p {
+  margin: 0;
+  line-height: 1;
+}
+
+.info a:visited {
+  color: #590893;
+}
+
+
+
+

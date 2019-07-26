@@ -1,0 +1,26 @@
+{
+  "name": "profile-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisonepiece/profile-project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisonepiece/profile-project-2/issues"
+  },
+  "homepage": "https://github.com/denisonepiece/profile-project-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.1.0",
+  }
+}
